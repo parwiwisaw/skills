@@ -1,0 +1,10 @@
+{
+  "name": "parwiwisaw-skills",
+  "owner": {
+    "name": "parwiwisaw"
+  },
+  "metadata": {
+    "description": "Personal plugins for Claude Code, with skills also installable through npx skills."
+  },
+  "plugins": []
+}
